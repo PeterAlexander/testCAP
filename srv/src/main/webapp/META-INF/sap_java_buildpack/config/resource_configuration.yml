@@ -1,0 +1,3 @@
+---
+tomcat/webapps/ROOT/META-INF/context.xml:
+  service_name_for_DefaultDB: cp100_05_050220_Ex7_00-hdi-container
